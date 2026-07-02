@@ -14,6 +14,7 @@ export default {
         primary: "var(--primary)",
         secondary: "var(--secondary)",
         accent: "var(--accent)",
+        charcoal: "#2E2E2E",
         muted: {
           DEFAULT: "var(--muted)",
           foreground: "var(--muted-foreground)"
